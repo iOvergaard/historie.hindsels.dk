@@ -1,0 +1,17 @@
+# Hindsels' historie. Alle, også søgemaskiner og AI-tjenester, må læse sitet.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://historie.hindsels.dk/sitemap.xml
